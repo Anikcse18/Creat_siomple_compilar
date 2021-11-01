@@ -1,0 +1,9 @@
+void main ()
+{
+	int a, b, c, i, 4a ;
+	c = a + b % 4 # 88 \ 3 ;
+	for ();
+	{
+		if ();
+	}
+}
